@@ -1,8 +1,8 @@
 # League-Discord-Bot
 
 This is my shot at making my first discord bot. This discord bot is now offline
-(because of multiple updates with the API of RiotGames, I have the intention to 
-rewrite a league discord bot with better coding in  the near future
+(because of multiple updates with the API of RiotGames my bot could not fetch the information,
+ I have the intention to rewrite a league discord bot with better coding in  the near future
 (using AWS, OOP, etc.))
 
 You had to link you discord account to your League of Legends account with a 
