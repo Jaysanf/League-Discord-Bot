@@ -13,5 +13,8 @@ It would get all the info of the game through the Riot API
 (Had to get an API Key from them by submitting my project) with a library and some JSON
 requests.
 
+This discord bot was hosted on Replit for free and used a db that worked like a python dict
+that was given through Replit to store all League of Legends ID and discord ID.
+
 Here is an example of what it used to send:
 ![Alt text](DiscordBot.PNG?raw=true "Example")
