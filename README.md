@@ -1,2 +1,2 @@
 # League-Discord-Bot
-<img src="/DiscordBot" alt="Example"/>
+![Alt text](DiscordBot.PNG?raw=true "Example")
